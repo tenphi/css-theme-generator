@@ -61,7 +61,6 @@
         gap="2x" overflow="hidden auto" padding="2x" space="0 2x 2x 2x" grow="1">
         <nu-pane content="space-between">
           <nu-h5>Numl.Design</nu-h5>
-          <nu-link clear :to="replLink">Open REPL</nu-link>
         </nu-pane>
 
         <nu-pane>
