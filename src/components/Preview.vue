@@ -277,8 +277,8 @@ const replHash = computed(() => {
     }),
   );
 });
-// Original: https://numl.design/repl#6038e9246cd202483f3a87a4
-const replLink = computed(() => `!https://numl.design/repl#${replHash.value}`);
+// Original: https://numl.tenphi.me/repl#6038e9246cd202483f3a87a4
+const replLink = computed(() => `!https://numl.tenphi.me/repl#${replHash.value}`);
 const codeExample = `var str = 'String';
 var num = 1234;
 var regexp = /^RegExp$/

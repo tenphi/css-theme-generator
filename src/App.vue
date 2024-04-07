@@ -30,7 +30,7 @@
             </nu-block>
             <nu-block>
               Based on
-              <nu-link to="!https://numl.design">Numl.Design</nu-link>
+              <nu-link to="!https://numl.tenphi.me">Numl.Design</nu-link>
               theme generator
               by <nu-link to="!https://tenphi.me">
                 @tenphi
@@ -295,7 +295,7 @@
 
             <nu-block>
               Stack:
-              <nu-link to="!https://numl.design">Numl.Design</nu-link>,
+              <nu-link to="!https://numl.tenphi.me">Numl.Design</nu-link>,
               <nu-link to="!https://vitejs.dev">Vite v2</nu-link>,
               <nu-link to="!https://vuejs.org">Vue v3</nu-link>
             </nu-block>
